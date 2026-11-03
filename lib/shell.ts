@@ -1,0 +1,2 @@
+// Structura paginii; conținutul este desenat de client/*.js
+export const SHELL = "<div class=\"top\"><div class=\"brand\"><b>Comenzi Livoltek</b><span id=\"sub\">Wiz Mobile · prețuri în € fără TVA</span></div>\n<nav id=\"nav\"></nav></div>\n<main id=\"view\"><div class=\"empty\">Se încarcă datele…</div></main>\n<datalist id=\"plist\"></datalist>\n<div id=\"scrim\" hidden><div id=\"drawer\" role=\"dialog\" aria-modal=\"true\"></div></div>\n<div id=\"toast\" hidden></div>";
